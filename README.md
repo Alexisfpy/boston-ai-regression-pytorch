@@ -27,7 +27,7 @@ He implementado un **Perceptrón Multicapa (MLP)** diseñado para alta precisió
 
 Puedes explorar el proceso de carga, normalización, entrenamiento y las gráficas de pérdida en el cuaderno principal:
   
-👉 **[Abrir el Jupyter Notebook: `entrenamiento_boston.ipynb`](/notebooks/entrenamiento_boston.ipynb)**
+👉 **[Abrir el Jupyter Notebook: `red_neuronal_boston.ipynb`](/notebooks/red_neuronal_boston.ipynb)**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alexisfpy/boston-ai-regression-pytorch/blob/master/notebooks/red_neuronal_boston.ipynb)
 
